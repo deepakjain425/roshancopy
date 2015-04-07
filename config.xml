@@ -6,10 +6,10 @@
         id        = "com.amadeus.merciapp"
         version   = "1.0.0">
 
-    <name>KQ AirLine</name>
+    <name>RK AirLine</name>
 
     <description>
-        KQ AirLine Test.
+        RK AirLine Test.
     </description>
 	
 <content src="debug/modules/dealsoffers/css/index.html" />
